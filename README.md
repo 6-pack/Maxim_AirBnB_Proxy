@@ -1,2 +1,2 @@
 # Maxim_AirBnB_Proxy
-testing push abilities
+Proxy Server Setup Test
