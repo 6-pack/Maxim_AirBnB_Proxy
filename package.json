@@ -1,0 +1,25 @@
+{
+  "name": "maxim_airbnb_proxy",
+  "version": "1.0.0",
+  "description": "Proxy Server Setup Test",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/6-pack/Maxim_AirBnB_Proxy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/6-pack/Maxim_AirBnB_Proxy/issues"
+  },
+  "homepage": "https://github.com/6-pack/Maxim_AirBnB_Proxy#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
