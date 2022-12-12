@@ -19,7 +19,7 @@
   "homepage": "https://github.com/6-pack/Maxim_AirBnB_Proxy#readme",
   "dependencies": {
     "axios": "^0.19.2",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
   }
